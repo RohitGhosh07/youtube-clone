@@ -1,6 +1,6 @@
 # YouTube Clone 🎥
 
-![YouTube Logo](https://i.ibb.co/qd5cN13/youtube-banner.png" )
+![YouTube Logo](https://i.ibb.co/qd5cN13/youtube-banner.png )
 
 This is a simple YouTube clone project built with HTML, CSS, and JavaScript. It mimics the basic functionality of YouTube, allowing users to view a list of videos, click on video thumbnails to watch them, and display video details.
 
@@ -12,6 +12,9 @@ This is a simple YouTube clone project built with HTML, CSS, and JavaScript. It 
 - Responsive design for various screen sizes.
 - Basic styling to resemble the YouTube UI.
 
+
+## Preview
+![YouTube Logo](https://i.ibb.co/jZS3qh4/Screenshot-78.png )
 ## Demo 🌐
 
 You can see a live demo of the YouTube clone [here]([https://your-demo-url.com](https://youtube-clone-ten-phi.vercel.app/)).
